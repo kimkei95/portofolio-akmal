@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function SkillTemplate() {
   const skills = [
     { name: "katalon", icon: "/images/katalon.png", title: "." },
