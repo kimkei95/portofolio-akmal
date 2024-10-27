@@ -1,4 +1,4 @@
-export default function Button({ href, children, primary, websitelink }) {
+export default function Button({ href, children, primary }) {
   const baseStyles =
     "inline-flex items-center justify-center w-36 h-10 font-semibold text-lg rounded-md border-2 transition-all duration-500";
   const primaryStyles = primary
